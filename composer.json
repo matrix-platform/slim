@@ -1,0 +1,17 @@
+{
+    "name": "matrix-platform/slim",
+    "authors": [
+        {
+            "name": "jrealm",
+            "email": "jrealm@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "matrix\\slim\\": "slim"
+        }
+    },
+    "license": "MIT",
+    "require": {
+    }
+}
